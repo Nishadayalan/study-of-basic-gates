@@ -92,7 +92,7 @@ endmodule
 
 **RTL**
 ![image](https://github.com/keerthanapillaram/study-of-basic-gates/assets/145743072/b5596b3f-aed6-41e4-8046-d3148de0af69)
-**OUTPUT:**
+##OUTPUT:
 ![Screenshot (135)](https://github.com/Nishadayalan/study-of-basic-gates/assets/144870468/eb31f398-d638-48b9-b618-968ef9b22e0e)
 
 
